@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a43be63-ff47-418d-add9-a8d9f3df0cde" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1dtfCVQbL9AuWNS2WJYV1h0vSHl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\!SHAG\NUMATO\numato\main\templates" />
+      <recent name="C:\!SHAG\NUMATO\numato\main\templates\registration" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a43be63-ff47-418d-add9-a8d9f3df0cde" name="Default Changelist" comment="" />
+      <created>1593249182542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593249182542</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="523" y="305" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594198337821">
+      <screen x="0" y="0" width="1504" height="1003" />
+    </state>
+    <state x="523" y="305" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1504.1003@0.0.1504.1003" timestamp="1594198337821" />
+    <state x="254" y="144" key="SettingsEditor" timestamp="1593862386227">
+      <screen x="0" y="0" width="1504" height="1003" />
+    </state>
+    <state x="254" y="144" key="SettingsEditor/0.0.1504.1003@0.0.1504.1003" timestamp="1593862386227" />
+    <state x="449" y="326" key="com.intellij.ide.util.TipDialog" timestamp="1594018822014">
+      <screen x="0" y="0" width="1504" height="1003" />
+    </state>
+    <state x="449" y="326" key="com.intellij.ide.util.TipDialog/0.0.1504.1003@0.0.1504.1003" timestamp="1594018822014" />
+    <state x="409" y="155" width="670" height="676" key="search.everywhere.popup" timestamp="1594292146162">
+      <screen x="0" y="0" width="1504" height="1003" />
+    </state>
+    <state x="409" y="155" width="670" height="676" key="search.everywhere.popup/0.0.1504.1003@0.0.1504.1003" timestamp="1594292146162" />
+  </component>
+</project>

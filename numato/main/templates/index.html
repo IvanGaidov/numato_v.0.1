@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% block title %}
+Numato
+{% endblock %}
+
+{% block content %}
+{% if user.is_authenticated %}
+ <p class="row justify-content-center">Welcome, {{ user.username }}!</p>
+<div class="row justify-content-center">
+
+<input type="submit" class="col-md-4 btn btn-success btn-lg center-block" value="Upload file">
+</div>
+
+    <p class="row justify-content-center">You have visited this page {{ num_visits }}{% if num_visits == 1 %} time{% else %} times{% endif %}.</p>
+
+{% else %}
+<h1>Numato main page</h1>
+
+ {% endif %}
+{% endblock %}
